@@ -97,10 +97,6 @@ function baz() {
 
 foo();
 
-
-
-
-
 console.log("asynchronous ")
 
 function foo1() {

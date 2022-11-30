@@ -14,3 +14,9 @@ const bigString = (word) => {
 }
 
 bigString("April")
+
+
+console.log("Default Parameter")
+
+
+console.log()
